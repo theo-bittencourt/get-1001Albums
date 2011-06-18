@@ -1,4 +1,7 @@
 Esse script usa as gems mechanize e jd-control para realizar o download dos albums do livro "1001 Discos Para Ouvir Antes De Morrer".
 
+A fonte dos links para download é o endereço:
+http://nobrasil.org/1001-discos-para-ouvir-antes-de-morrer/
+
 É necessário ter o JDownloader instalado com o addon "remote control" ativado.
 
